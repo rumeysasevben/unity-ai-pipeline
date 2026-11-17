@@ -1,6 +1,6 @@
 # AI-driven Unity pipeline
 
-How I build an online co-op Unity game with Claude Code doing the engineering and a system doing the verifying. I don't write code, make builds or run tests by hand: every task is a written brief, every fix has a test, every build is one command.
+How I build an online co-op Unity game with Claude Code doing the engineering and a system doing the verifying. I don't make builds or run tests by hand, and I direct Claude Code through written briefs rather than hand-writing code: every task is a written brief, every fix has a test, every build is one command.
 
 The game (Double Trouble Delivery: Unity 6, URP, Mirror, Steam) is not public yet. This repo is the *system* around it, with game content removed.
 
